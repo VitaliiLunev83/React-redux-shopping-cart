@@ -1,5 +1,6 @@
 Реализация функционала корзины книжного магазина на React Redux. Реализован подсчет стоимости товаров,добавление в корзину. В качестве сервера был использован jsonserver.
-Ссылка на gh-pages: https://vitaliilunev83.github.io/
+Ссылка на gh-pages: https://vitaliilunev83.github.io/React-redux-shopping-cart/ 
+Для загрузки книг кликнете на лого bookstore
 
 ## Available Scripts
 
