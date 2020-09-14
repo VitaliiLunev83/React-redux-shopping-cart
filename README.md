@@ -1,6 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Реализация функционала корзины книжного магазина на React Redux. Реализован подсчет стоимости товаров,добавление в корзину. В качестве сервера был использован jsonserver.
+Ссылка на gh-pages: https://vitaliilunev83.github.io/
 
 ## Available Scripts
+
+
 
 In the project directory, you can run:
 
